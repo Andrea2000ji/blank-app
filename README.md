@@ -31,3 +31,9 @@ A simple Streamlit app template for you to modify!
    ```
    $ claude
    ```
+
+3. Or log in explicitly by running the following command inside Claude Code and following the prompts
+
+   ```
+   /login
+   ```
