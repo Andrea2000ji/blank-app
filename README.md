@@ -17,3 +17,17 @@ A simple Streamlit app template for you to modify!
    ```
    $ streamlit run streamlit_app.py
    ```
+
+### Using Claude Code with this project
+
+1. Install Claude Code
+
+   ```
+   $ curl -fsSL https://claude.ai/install.sh | bash
+   ```
+
+2. Start Claude Code (you'll be prompted to log in on first use)
+
+   ```
+   $ claude
+   ```
