@@ -37,3 +37,10 @@ A simple Streamlit app template for you to modify!
    ```
    /login
    ```
+
+4. Navigate to your project and start Claude Code
+
+   ```
+   $ cd /path/to/your/project
+   $ claude
+   ```
